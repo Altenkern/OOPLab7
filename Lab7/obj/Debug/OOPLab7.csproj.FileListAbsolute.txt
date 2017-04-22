@@ -1,0 +1,9 @@
+E:\Education\OOP\Lab7\obj\Debug\OOPLab7.csprojResolveAssemblyReference.cache
+E:\Education\OOP\Lab7\obj\Debug\OOPLab7.MainForm.resources
+E:\Education\OOP\Lab7\obj\Debug\Atlas.Properties.Resources.resources
+E:\Education\OOP\Lab7\obj\Debug\OOPLab7.csproj.GenerateResource.Cache
+E:\Education\OOP\Lab7\bin\Debug\Atlas.exe.config
+E:\Education\OOP\Lab7\bin\Debug\Atlas.exe
+E:\Education\OOP\Lab7\bin\Debug\Atlas.pdb
+E:\Education\OOP\Lab7\obj\Debug\Atlas.exe
+E:\Education\OOP\Lab7\obj\Debug\Atlas.pdb
